@@ -1,0 +1,6 @@
+while (1){
+        movJoints(sock, buffer, 0.3, -0.3, 0.1, 0.0, 0.5, -0.8, 0);
+        delay(2000);
+        movJoints(sock, buffer, -0.3, -0.3, 0.1, 0.0, 0.5, -0.8,1);
+        delay(2000);
+    }

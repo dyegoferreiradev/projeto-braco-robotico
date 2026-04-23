@@ -1,0 +1,87 @@
+﻿  vrep.cpp
+C:\Users\zDyeg\OneDrive\Área de Trabalho\atual\vrep\vrep.cpp(54,32): warning C4305: '=': truncamento de 'double' para 'simxFloat'
+C:\Users\zDyeg\OneDrive\Área de Trabalho\atual\vrep\vrep.cpp(55,31): warning C4305: '=': truncamento de 'double' para 'simxFloat'
+C:\Users\zDyeg\OneDrive\Área de Trabalho\atual\vrep\vrep.cpp(57,32): warning C4305: '=': truncamento de 'double' para 'simxFloat'
+C:\Users\zDyeg\OneDrive\Área de Trabalho\atual\vrep\vrep.cpp(58,31): warning C4305: '=': truncamento de 'double' para 'simxFloat'
+C:\Users\zDyeg\OneDrive\Área de Trabalho\atual\vrep\vrep.cpp(61,32): warning C4305: '=': truncamento de 'double' para 'simxFloat'
+C:\Users\zDyeg\OneDrive\Área de Trabalho\atual\vrep\vrep.cpp(62,32): warning C4305: '=': truncamento de 'double' para 'simxFloat'
+C:\Users\zDyeg\OneDrive\Área de Trabalho\atual\vrep\vrep.cpp(63,31): warning C4305: '=': truncamento de 'double' para 'simxFloat'
+C:\Users\zDyeg\OneDrive\Área de Trabalho\atual\vrep\vrep.cpp(64,31): warning C4305: '=': truncamento de 'double' para 'simxFloat'
+C:\Users\zDyeg\OneDrive\Área de Trabalho\atual\vrep\vrep.cpp(65,32): warning C4305: '=': truncamento de 'double' para 'simxFloat'
+C:\Users\zDyeg\OneDrive\Área de Trabalho\atual\vrep\vrep.cpp(66,31): warning C4305: '=': truncamento de 'double' para 'simxFloat'
+C:\Users\zDyeg\OneDrive\Área de Trabalho\atual\vrep\vrep.cpp(69,32): warning C4305: '=': truncamento de 'double' para 'simxFloat'
+C:\Users\zDyeg\OneDrive\Área de Trabalho\atual\vrep\vrep.cpp(70,32): warning C4305: '=': truncamento de 'double' para 'simxFloat'
+C:\Users\zDyeg\OneDrive\Área de Trabalho\atual\vrep\vrep.cpp(71,31): warning C4305: '=': truncamento de 'double' para 'simxFloat'
+C:\Users\zDyeg\OneDrive\Área de Trabalho\atual\vrep\vrep.cpp(72,31): warning C4305: '=': truncamento de 'double' para 'simxFloat'
+C:\Users\zDyeg\OneDrive\Área de Trabalho\atual\vrep\vrep.cpp(73,32): warning C4305: '=': truncamento de 'double' para 'simxFloat'
+C:\Users\zDyeg\OneDrive\Área de Trabalho\atual\vrep\vrep.cpp(74,31): warning C4305: '=': truncamento de 'double' para 'simxFloat'
+C:\Users\zDyeg\OneDrive\Área de Trabalho\atual\vrep\vrep.cpp(77,32): warning C4305: '=': truncamento de 'double' para 'simxFloat'
+C:\Users\zDyeg\OneDrive\Área de Trabalho\atual\vrep\vrep.cpp(78,32): warning C4305: '=': truncamento de 'double' para 'simxFloat'
+C:\Users\zDyeg\OneDrive\Área de Trabalho\atual\vrep\vrep.cpp(79,31): warning C4305: '=': truncamento de 'double' para 'simxFloat'
+C:\Users\zDyeg\OneDrive\Área de Trabalho\atual\vrep\vrep.cpp(80,31): warning C4305: '=': truncamento de 'double' para 'simxFloat'
+C:\Users\zDyeg\OneDrive\Área de Trabalho\atual\vrep\vrep.cpp(81,32): warning C4305: '=': truncamento de 'double' para 'simxFloat'
+C:\Users\zDyeg\OneDrive\Área de Trabalho\atual\vrep\vrep.cpp(82,32): warning C4305: '=': truncamento de 'double' para 'simxFloat'
+C:\Users\zDyeg\OneDrive\Área de Trabalho\atual\vrep\vrep.cpp(85,32): warning C4305: '=': truncamento de 'double' para 'simxFloat'
+C:\Users\zDyeg\OneDrive\Área de Trabalho\atual\vrep\vrep.cpp(86,32): warning C4305: '=': truncamento de 'double' para 'simxFloat'
+C:\Users\zDyeg\OneDrive\Área de Trabalho\atual\vrep\vrep.cpp(87,31): warning C4305: '=': truncamento de 'double' para 'simxFloat'
+C:\Users\zDyeg\OneDrive\Área de Trabalho\atual\vrep\vrep.cpp(88,31): warning C4305: '=': truncamento de 'double' para 'simxFloat'
+C:\Users\zDyeg\OneDrive\Área de Trabalho\atual\vrep\vrep.cpp(89,32): warning C4305: '=': truncamento de 'double' para 'simxFloat'
+C:\Users\zDyeg\OneDrive\Área de Trabalho\atual\vrep\vrep.cpp(90,31): warning C4305: '=': truncamento de 'double' para 'simxFloat'
+C:\Users\zDyeg\OneDrive\Área de Trabalho\atual\vrep\vrep.cpp(93,32): warning C4305: '=': truncamento de 'double' para 'simxFloat'
+C:\Users\zDyeg\OneDrive\Área de Trabalho\atual\vrep\vrep.cpp(94,32): warning C4305: '=': truncamento de 'double' para 'simxFloat'
+C:\Users\zDyeg\OneDrive\Área de Trabalho\atual\vrep\vrep.cpp(95,31): warning C4305: '=': truncamento de 'double' para 'simxFloat'
+C:\Users\zDyeg\OneDrive\Área de Trabalho\atual\vrep\vrep.cpp(96,31): warning C4305: '=': truncamento de 'double' para 'simxFloat'
+C:\Users\zDyeg\OneDrive\Área de Trabalho\atual\vrep\vrep.cpp(97,32): warning C4305: '=': truncamento de 'double' para 'simxFloat'
+C:\Users\zDyeg\OneDrive\Área de Trabalho\atual\vrep\vrep.cpp(98,31): warning C4305: '=': truncamento de 'double' para 'simxFloat'
+C:\Users\zDyeg\OneDrive\Área de Trabalho\atual\vrep\vrep.cpp(101,32): warning C4305: '=': truncamento de 'double' para 'simxFloat'
+C:\Users\zDyeg\OneDrive\Área de Trabalho\atual\vrep\vrep.cpp(102,32): warning C4305: '=': truncamento de 'double' para 'simxFloat'
+C:\Users\zDyeg\OneDrive\Área de Trabalho\atual\vrep\vrep.cpp(103,32): warning C4305: '=': truncamento de 'double' para 'simxFloat'
+C:\Users\zDyeg\OneDrive\Área de Trabalho\atual\vrep\vrep.cpp(104,31): warning C4305: '=': truncamento de 'double' para 'simxFloat'
+C:\Users\zDyeg\OneDrive\Área de Trabalho\atual\vrep\vrep.cpp(105,32): warning C4305: '=': truncamento de 'double' para 'simxFloat'
+C:\Users\zDyeg\OneDrive\Área de Trabalho\atual\vrep\vrep.cpp(106,32): warning C4305: '=': truncamento de 'double' para 'simxFloat'
+C:\Users\zDyeg\OneDrive\Área de Trabalho\atual\vrep\vrep.cpp(109,32): warning C4305: '=': truncamento de 'double' para 'simxFloat'
+C:\Users\zDyeg\OneDrive\Área de Trabalho\atual\vrep\vrep.cpp(110,32): warning C4305: '=': truncamento de 'double' para 'simxFloat'
+C:\Users\zDyeg\OneDrive\Área de Trabalho\atual\vrep\vrep.cpp(111,31): warning C4305: '=': truncamento de 'double' para 'simxFloat'
+C:\Users\zDyeg\OneDrive\Área de Trabalho\atual\vrep\vrep.cpp(112,31): warning C4305: '=': truncamento de 'double' para 'simxFloat'
+C:\Users\zDyeg\OneDrive\Área de Trabalho\atual\vrep\vrep.cpp(114,32): warning C4305: '=': truncamento de 'double' para 'simxFloat'
+C:\Users\zDyeg\OneDrive\Área de Trabalho\atual\vrep\vrep.cpp(117,32): warning C4305: '=': truncamento de 'double' para 'simxFloat'
+C:\Users\zDyeg\OneDrive\Área de Trabalho\atual\vrep\vrep.cpp(118,32): warning C4305: '=': truncamento de 'double' para 'simxFloat'
+C:\Users\zDyeg\OneDrive\Área de Trabalho\atual\vrep\vrep.cpp(119,31): warning C4305: '=': truncamento de 'double' para 'simxFloat'
+C:\Users\zDyeg\OneDrive\Área de Trabalho\atual\vrep\vrep.cpp(120,31): warning C4305: '=': truncamento de 'double' para 'simxFloat'
+C:\Users\zDyeg\OneDrive\Área de Trabalho\atual\vrep\vrep.cpp(121,32): warning C4305: '=': truncamento de 'double' para 'simxFloat'
+C:\Users\zDyeg\OneDrive\Área de Trabalho\atual\vrep\vrep.cpp(122,32): warning C4305: '=': truncamento de 'double' para 'simxFloat'
+C:\Users\zDyeg\OneDrive\Área de Trabalho\atual\vrep\vrep.cpp(128,84): warning C4244: 'argumento': conversão de 'double' para 'simxFloat', possível perda de dados
+C:\Users\zDyeg\OneDrive\Área de Trabalho\atual\vrep\vrep.cpp(133,79): warning C4244: 'argumento': conversão de 'double' para 'simxFloat', possível perda de dados
+C:\Users\zDyeg\OneDrive\Área de Trabalho\atual\vrep\vrep.cpp(134,79): warning C4244: 'argumento': conversão de 'double' para 'simxFloat', possível perda de dados
+C:\Users\zDyeg\OneDrive\Área de Trabalho\atual\vrep\vrep.cpp(135,79): warning C4244: 'argumento': conversão de 'double' para 'simxFloat', possível perda de dados
+C:\Users\zDyeg\OneDrive\Área de Trabalho\atual\vrep\vrep.cpp(136,79): warning C4244: 'argumento': conversão de 'double' para 'simxFloat', possível perda de dados
+C:\Users\zDyeg\OneDrive\Área de Trabalho\atual\vrep\vrep.cpp(138,79): warning C4244: 'argumento': conversão de 'double' para 'simxFloat', possível perda de dados
+C:\Users\zDyeg\OneDrive\Área de Trabalho\atual\vrep\vrep.cpp(140,79): warning C4244: 'argumento': conversão de 'double' para 'simxFloat', possível perda de dados
+C:\Users\zDyeg\OneDrive\Área de Trabalho\atual\vrep\vrep.cpp(144,84): warning C4244: 'argumento': conversão de 'double' para 'simxFloat', possível perda de dados
+C:\Users\zDyeg\OneDrive\Área de Trabalho\atual\vrep\vrep.cpp(149,84): warning C4244: 'argumento': conversão de 'double' para 'simxFloat', possível perda de dados
+C:\Users\zDyeg\OneDrive\Área de Trabalho\atual\vrep\vrep.cpp(152,40): warning C4305: 'inicializando': truncamento de 'double' para 'simxFloat'
+C:\Users\zDyeg\OneDrive\Área de Trabalho\atual\vrep\vrep.cpp(152,50): warning C4305: 'inicializando': truncamento de 'double' para 'simxFloat'
+C:\Users\zDyeg\OneDrive\Área de Trabalho\atual\vrep\vrep.cpp(152,60): warning C4305: 'inicializando': truncamento de 'double' para 'simxFloat'
+C:\Users\zDyeg\OneDrive\Área de Trabalho\atual\vrep\vrep.cpp(152,68): warning C4305: 'inicializando': truncamento de 'double' para 'simxFloat'
+C:\Users\zDyeg\OneDrive\Área de Trabalho\atual\vrep\vrep.cpp(152,78): warning C4305: 'inicializando': truncamento de 'double' para 'simxFloat'
+C:\Users\zDyeg\OneDrive\Área de Trabalho\atual\vrep\vrep.cpp(152,88): warning C4305: 'inicializando': truncamento de 'double' para 'simxFloat'
+C:\Users\zDyeg\OneDrive\Área de Trabalho\atual\vrep\vrep.cpp(153,79): warning C4244: 'argumento': conversão de 'double' para 'simxFloat', possível perda de dados
+C:\Users\zDyeg\OneDrive\Área de Trabalho\atual\vrep\vrep.cpp(154,79): warning C4244: 'argumento': conversão de 'double' para 'simxFloat', possível perda de dados
+C:\Users\zDyeg\OneDrive\Área de Trabalho\atual\vrep\vrep.cpp(155,79): warning C4244: 'argumento': conversão de 'double' para 'simxFloat', possível perda de dados
+C:\Users\zDyeg\OneDrive\Área de Trabalho\atual\vrep\vrep.cpp(156,79): warning C4244: 'argumento': conversão de 'double' para 'simxFloat', possível perda de dados
+C:\Users\zDyeg\OneDrive\Área de Trabalho\atual\vrep\vrep.cpp(158,79): warning C4244: 'argumento': conversão de 'double' para 'simxFloat', possível perda de dados
+C:\Users\zDyeg\OneDrive\Área de Trabalho\atual\vrep\vrep.cpp(160,79): warning C4244: 'argumento': conversão de 'double' para 'simxFloat', possível perda de dados
+C:\Users\zDyeg\OneDrive\Área de Trabalho\atual\vrep\vrep.cpp(163,84): warning C4244: 'argumento': conversão de 'double' para 'simxFloat', possível perda de dados
+C:\Users\zDyeg\OneDrive\Área de Trabalho\atual\vrep\vrep.cpp(191,37): warning C4305: 'inicializando': truncamento de 'double' para 'simxFloat'
+C:\Users\zDyeg\OneDrive\Área de Trabalho\atual\vrep\vrep.cpp(191,47): warning C4305: 'inicializando': truncamento de 'double' para 'simxFloat'
+C:\Users\zDyeg\OneDrive\Área de Trabalho\atual\vrep\vrep.cpp(191,57): warning C4305: 'inicializando': truncamento de 'double' para 'simxFloat'
+C:\Users\zDyeg\OneDrive\Área de Trabalho\atual\vrep\vrep.cpp(191,65): warning C4305: 'inicializando': truncamento de 'double' para 'simxFloat'
+C:\Users\zDyeg\OneDrive\Área de Trabalho\atual\vrep\vrep.cpp(191,75): warning C4305: 'inicializando': truncamento de 'double' para 'simxFloat'
+C:\Users\zDyeg\OneDrive\Área de Trabalho\atual\vrep\vrep.cpp(191,84): warning C4305: 'inicializando': truncamento de 'double' para 'simxFloat'
+     Criando biblioteca C:\Users\zDyeg\OneDrive\Área de Trabalho\atual\x64\Release\vrep.lib e objeto C:\Users\zDyeg\OneDrive\Área de Trabalho\atual\x64\Release\vrep.exp
+  Gerando código
+  2 of 248 functions ( 0.8%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    1 functions had inline decision re-evaluated but remain unchanged
+  Finalizada a geração de código
+  vrep.vcxproj -> C:\Users\zDyeg\OneDrive\Área de Trabalho\atual\x64\Release\vrep.exe

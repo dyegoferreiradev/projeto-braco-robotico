@@ -1,16 +1,14 @@
-🤖 Projeto: Jogo da Velha com Braço Robótico 
+# [cite_start]🤖 Projeto: Jogo da Velha com Braço Robótico [cite: 1, 5]
 
-📖 Sobre o Projeto:
+## 📖 Sobre o Projeto
+[cite_start]Este projeto prático tem como objetivo aplicar conhecimentos de programação para a resolução de problemas de robótica de forma prática[cite: 2]. [cite_start]O objetivo do projeto é desenvolver um programa que possibilite um braço robótico jogar o Jogo da Velha[cite: 5]. [cite_start]As práticas serão no laboratório da Residência em Robótica e IA[cite: 3].
 
-  Este projeto prático tem como objetivo aplicar conhecimentos de programação para a resolução de problemas na área de robótica. O desafio central consiste em desenvolver um software que controle um braço robótico, capacitando-o a jogar uma partida de Jogo da Velha de forma autônoma e interativa. O desenvolvimento e os testes físicos ocorrem no laboratório da Residência em Robótica e IA.
-  
-⚙️ Funcionamento e Lógica
-
-O sistema atua como a ponte entre a lógica do jogo e o atuador físico (o braço robótico): 
-
-Mapeamento: O tabuleiro físico é interpretado logicamente como uma matriz 3x3.
-Entrada de Dados: O programa deve estar preparado para receber as coordenadas das jogadas diretamente por meio do terminal.
-Formato Esperado: A entrada deve seguir rigorosamente o padrão de jogador e coordenada. 
-Exemplos: X: (0,1) O: (1,0) 
-Ação Física: Ao processar a entrada do terminal, o programa aciona e move o braço robótico para registrar a jogada correspondente no tabuleiro real.
-Fluxo de Jogo: O loop de execução continua recebendo jogadas e movendo o braço até que uma condição de vitória seja atingida ou o tabuleiro seja preenchido (empate).
+## ⚙️ Funcionamento e Lógica
+O sistema atua como a ponte entre a lógica do jogo e o atuador físico:
+* [cite_start]**Mapeamento:** O tabuleiro é representado por uma matriz 3x3[cite: 6].
+* [cite_start]**Entrada de Dados:** Seu programa deverá receber as jogadas por meio do terminal[cite: 6].
+* [cite_start]**Formato Esperado:** O formato de entrada deve ser[cite: 6]: 
+  * [cite_start]`X: (0,1)` [cite: 7]
+  * [cite_start]`O: (1,0)` [cite: 8]
+* [cite_start]**Ação Física:** A partir desta entrada, o programa deve mover o braço robótico para realizar uma jogada[cite: 9].
+* [cite_start]**Fluxo de Jogo:** Essa sequência segue até que alguém ganhe ou que haja empate[cite: 10].

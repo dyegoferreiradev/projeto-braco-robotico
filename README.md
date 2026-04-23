@@ -3,6 +3,8 @@
 ## 📖 Sobre o Projeto
 Este projeto prático foca na aplicação de conhecimentos de programação para resolver problemas reais de robótica. O objetivo central é o desenvolvimento de um sistema que permita a um braço robótico jogar partidas de Jogo da Velha de forma automatizada. As atividades práticas são realizadas no laboratório da Residência em Robótica e IA.
 
+* **Linguagem utilizada:** C
+
 ## ⚙️ Funcionamento e Lógica
 O software atua como o controlador entre a interface de comando e o hardware:
 * **Representação:** O tabuleiro é processado como uma matriz 3x3.
